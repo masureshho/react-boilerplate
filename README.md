@@ -1,2 +1,2 @@
-# react-boilerplate
-Isomorphic Reactjs application development made easy
+# react-iso-boilerplate
+Isomorphic Reactjs application starter
